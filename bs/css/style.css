@@ -1,0 +1,51 @@
+.carousel-inner > .coursel-item{
+    height: 60px;
+    
+
+}
+.rounded-circle{
+    background: linear-gradient(#fff, #fff) padding-box,
+    linear-gradient(0deg, rgb(188, 185, 244) 0%,
+    rgba(9,9,121,1) 27%, 
+    rgba(0,212,255,1) 100%);
+border: 7px solid transparent;
+border-radius: 50px;
+box-shadow: 0px 0px 20px black;
+transition: all 1s; /* CSS3 transition */
+}
+.rounded-circle:hover{
+    
+  background: gray;
+  color: white;
+}
+
+.resimSlider{
+    height: 600px;
+
+   
+}
+
+body{
+    padding-top: 50px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.hakkimizda{
+    background-color: #f2f2f2;
+}
+
+.ayrac{
+    border: none;
+    border-top: 3px solid #343a40;
+    max-width: 250px;
+    margin:25px auto;
+}
+
+.ibeyaz{
+    color: #343a40;
+    position: relative;
+    top: -55px;
+    font-size: 40px;
+    border: 10px solid #f2f2f2;
+    background-color: #f2f2f2;
+}
